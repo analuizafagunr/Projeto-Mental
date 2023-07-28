@@ -1,5 +1,5 @@
 <h1 align="center">
-  ![reprograma](https://github.com/analuizafagunr/Projeto-Mental/assets/126826886/ece326c1-9bc0-4082-a26d-8c6e66665b68)
+
 
 
 ## Apresentação
