@@ -6,7 +6,7 @@
 
 ### Quem é a Ana Luiza?
 
-<img src='./assets/female-ghost-face.png' width=500 alt='foto ilustrativa de uma mulher ghost face'> // ESSA DAQUI TAMBÉM VIU!?
+<img src='./assets/analuu.JPG' width=500 alt='foto analuiza'> // 
 
 [Ana Luiza](https://www.instagram.com/luizafagunr/), é uma Paulista apaixonada por duas áreas aparentemente distintas: psicologia e tecnologia. Atualmente, estou embarcando em uma jornada como desenvolvedora Front-End pela Reprograma, onde estou me dedicando de corpo e alma a aprender e evoluir nesse campo fascinante da programação.
 Estou empolgada e determinada a enfrentar desafios, expandir meus horizontes e continuar aprendendo, para construir uma carreira promissora e repleta de realizações no mundo da tecnologia.
@@ -44,7 +44,7 @@ No site, os visitantes encontrarão técnicas de respiração e yoga, juntamente
 
 ## Estrutura do projeto
 
-<img src="assets/estrutura-de-pastas.png" alt="estrutura de pastas" width="300"> // MUDAR Estrura e Dependencias *lembrar de botar numa nova pasta assets 
+<img src="assets/estrutura.png" alt="estrutura de pastas" width="300"> // MUDAR Estrura e Dependencias *lembrar de botar numa nova pasta assets 
 
 <br />
 
