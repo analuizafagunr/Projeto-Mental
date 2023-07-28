@@ -1,0 +1,30 @@
+
+.footerContainer {
+  background-color: #FADA77;
+  padding: 1.0rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.footerContent {
+  color: rgb(60, 57, 57);
+  font-size: 1.2rem;
+}
+
+/* Estilos para o novo container de ícones */
+.iconContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1rem; /* Adicionando espaçamento entre a mensagem e os ícones */
+}
+
+/* Estilos para os ícones */
+.icon {
+  font-size: 1.5rem;
+  cursor: pointer;
+  margin: 0 0.5rem; /* Adicionando espaçamento entre os ícones */
+  color:chocolate;
+}

@@ -1,0 +1,25 @@
+.headerContainer {
+  background-color:#fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  padding: 6rem;
+  position: relative; /* Adiciona esta propriedade para o posicionamento correto dos elementos filhos */
+}
+
+.headerTitle {
+  z-index: 1;
+  padding: 10px;
+  text-align: center;
+  font-family:Helvetica;
+  font-size: 24px;
+}
+.headerImage {
+  width: 120%; /* Definimos a largura da imagem como 100% para ocupar todo o espaço disponível */
+  position: relative; /* Estabelecemos o posicionamento relativo para controlar a posição da imagem */
+  top: -10px; /* Ajuste o valor para a quantidade de deslocamento vertical desejada */
+  margin-top: -12%;
+}
+

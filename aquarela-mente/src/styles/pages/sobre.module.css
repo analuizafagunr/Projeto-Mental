@@ -1,0 +1,68 @@
+.sobreTitle {
+  font-size: 1.5rem;
+  color: #e0b532;
+  text-align: center;
+  margin-top: -2%;
+  font-family: Helvetica;
+}
+
+/* Estilos para o texto descritivo */
+.sobreDescription {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: rgb(90, 86, 86);
+  font-family: Helvetica;
+  margin-bottom: 20px;
+  text-align: justify;
+}
+
+/* Estilos para a lista de sintomas */
+.sintomasList {
+  list-style-type: none;
+  font-size: 1.1rem;
+  color: rgb(60, 57, 57);
+  font-family: Helvetica;
+  padding-left: 0; /* Remover o padding padrão da lista */
+}
+
+/* Estilos para os itens da lista */
+.sintomasList li {
+  padding-left: 20px;
+  margin-bottom: 10px;
+  border-left: 4px solid #dfbd57; /* Adiciona borda à esquerda do item da lista */
+}
+
+/* Estilos para o container dos cards */
+.cardContainer {
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+/* Estilos para o título dos cards */
+.cardTitle {
+  font-size: 1.5rem;
+  color: #e0b532;
+  font-family: Helvetica;
+  margin-bottom: 10px;
+  text-align: center;
+
+}
+.cardContainerr {
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 3px solid #FADA77; /* Adiciona uma borda de 2px de espessura com cor amarela */
+  border-radius: 10px; /* Arredonda as bordas do container */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra suave ao container */
+  
+}
+
+/* Estilos para a seção "Depoimentos e Superação" */
+.depoimento {
+  font-size: 1.0rem;
+  line-height: 1.6;
+  color: rgb(60, 57, 57);
+  font-family: Helvetica;
+  margin-bottom: 20px;
+  text-align: justify;
+  padding-left: 10px; /* Adiciona espaço interno à esquerda do depoimento */
+}

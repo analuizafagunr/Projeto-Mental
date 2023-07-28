@@ -1,0 +1,29 @@
+
+.homeContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 4rem;
+  padding: 10%;
+}
+
+.cardContainer {
+  text-align: justify;
+  display: flex;
+  flex-direction: column; /* Organiza os elementos verticalmente */
+  align-items: center; /* Centraliza os elementos verticalmente */
+}
+.cardTitle {
+  padding: 1.5rem;
+  font-size: 2.5rem;
+  color: #dfbd57;
+  margin-bottom: 1rem; /* Adiciona 1 rem de espaço abaixo do elemento .cardTitle */
+  margin-top: -15%;
+  text-align: center;
+}
+
+.cardDescription {
+  font-size: 1.3rem;
+  color:  rgb(60, 57, 57);
+  font-family:Helvetica;
+}

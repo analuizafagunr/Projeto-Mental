@@ -1,0 +1,18 @@
+.menuContainer {
+  background-color:#FADA77 ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 7rem;
+  padding: 0rem;
+  list-style: none;
+}
+
+.menuLink {
+  text-decoration: none;
+  color: rgb(60, 57, 57);
+  font-size: 1.1rem;
+  font-family:Helvetica;
+  padding: 2rem;
+}
+

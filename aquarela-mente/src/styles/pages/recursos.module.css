@@ -1,0 +1,51 @@
+.depoimentosContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 4rem;
+  padding: 10rem;
+}
+
+.headerTitle{
+  padding: 2rem;
+  font-size:1rem;
+}
+
+.cardContainer {
+  text-align: center;
+}
+
+.cardTitle {
+  padding: 3rem;
+  font-size: 1.5rem;
+  color: #dfbd57;
+}
+
+.cardDescription {
+  font-size: 1.1rem;
+  color: rgb(60, 57, 57);
+  padding:2rem;
+}
+
+.fotolivros{
+  display: block;
+  width: 50%;
+  height: auto;
+  border-radius: 8px;
+  border: 4px ;
+  margin-left: auto; /* Add this line to center the image horizontally */
+  padding: 2%;
+  margin-right: 25%;
+  margin-top:25px;
+}
+.fotopodcast{
+  display: block;
+  width: 50%;
+  height: auto;
+  border-radius: 8px;
+  border: 4px ;
+  margin-left: auto; /* Add this line to center the image horizontally */
+  padding: 2%;
+  margin-right: 25%;
+  margin-top:25px;
+}

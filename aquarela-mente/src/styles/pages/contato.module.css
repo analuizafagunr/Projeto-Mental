@@ -1,0 +1,42 @@
+.form {
+    width: 100%;
+    height: 35rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: -140px;
+  }
+  
+  .formInput {
+    width: 60%;
+    padding: .6rem 2rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    resize: vertical;
+  }
+  
+  .formButton {
+    width: 60%;
+    padding: .6rem 2rem;
+    background-color:rgb(151, 85, 85);
+    color: #fff;
+    border: none;
+    margin-top: 1rem;
+    font-size: 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .formButton:hover {
+    background-color: #dfbd57;
+  }
+
+  h1 {
+    color: rgb(151, 85, 85); /* Define a cor do texto para vermelho */
+    font-size:  1.6rem; /* Define o tamanho da fonte para 24 pixels */
+    font-weight: bold; /* Define o peso da fonte para negrito */
+    text-align: center;
+    font-family:Helvetica;
+  }
