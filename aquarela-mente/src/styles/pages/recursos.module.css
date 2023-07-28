@@ -1,3 +1,4 @@
+
 .depoimentosContainer {
   display: flex;
   justify-content: center;
@@ -6,9 +7,9 @@
   padding: 10rem;
 }
 
-.headerTitle{
+.headerTitle {
   padding: 2rem;
-  font-size:1rem;
+  font-size: 1rem;
 }
 
 .cardContainer {
@@ -24,28 +25,61 @@
 .cardDescription {
   font-size: 1.1rem;
   color: rgb(60, 57, 57);
-  padding:2rem;
+  padding: 2rem;
 }
 
-.fotolivros{
+.fotolivros {
   display: block;
   width: 50%;
   height: auto;
   border-radius: 8px;
-  border: 4px ;
   margin-left: auto; /* Add this line to center the image horizontally */
   padding: 2%;
   margin-right: 25%;
-  margin-top:25px;
+  margin-top: 25px;
 }
-.fotopodcast{
+
+.fotopodcast {
   display: block;
   width: 50%;
   height: auto;
   border-radius: 8px;
-  border: 4px ;
   margin-left: auto; /* Add this line to center the image horizontally */
   padding: 2%;
   margin-right: 25%;
-  margin-top:25px;
+  margin-top: 25px;
+}
+
+.fotoaplicativos {
+  display: block;
+  width: 50%;
+  height: auto;
+  border-radius: 8px;
+  margin-left: auto; /* Add this line to center the image horizontally */
+  padding: 2%;
+  margin-right: 25%;
+  margin-top: 25px;
+}
+
+a {
+  color: #007bff; /* Define a cor do link */
+  text-decoration: none; /* Remove o sublinhado padrão do link */
+  margin-bottom: 10px;
+}
+
+a:hover {
+  text-decoration: underline; /* Sublinha o link quando o mouse está sobre ele */
+}
+
+p {
+  font-size: 1.1rem;
+  color: rgb(60, 57, 57);
+  margin-bottom: 20px;
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 28px;
+  color: #6a1543;
+  margin-bottom: 20px;
 }

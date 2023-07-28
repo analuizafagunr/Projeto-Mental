@@ -20,6 +20,6 @@
   width: 120%; /* Definimos a largura da imagem como 100% para ocupar todo o espaço disponível */
   position: relative; /* Estabelecemos o posicionamento relativo para controlar a posição da imagem */
   top: -10px; /* Ajuste o valor para a quantidade de deslocamento vertical desejada */
-  margin-top: -12%;
+  margin-top: -15%;
 }
 

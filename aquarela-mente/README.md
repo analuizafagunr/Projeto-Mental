@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500"> // MUDAR VISSE
+  <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500"> 
 </h1>
 
 ## Apresentação
 
 ### Quem é a Ana Luiza?
 
-<img src='./assets/analuu.JPG' width=500 alt='foto analuiza'> // 
+<img src='./assets/analuu.JPG' width=500 alt='foto analuiza'>
 
 [Ana Luiza](https://www.instagram.com/luizafagunr/), é uma Paulista apaixonada por duas áreas aparentemente distintas: psicologia e tecnologia. Atualmente, estou embarcando em uma jornada como desenvolvedora Front-End pela Reprograma, onde estou me dedicando de corpo e alma a aprender e evoluir nesse campo fascinante da programação.
 Estou empolgada e determinada a enfrentar desafios, expandir meus horizontes e continuar aprendendo, para construir uma carreira promissora e repleta de realizações no mundo da tecnologia.
@@ -44,7 +44,7 @@ No site, os visitantes encontrarão técnicas de respiração e yoga, juntamente
 
 ## Estrutura do projeto
 
-<img src="assets/estrutura.png" alt="estrutura de pastas" width="300"> // MUDAR Estrura e Dependencias *lembrar de botar numa nova pasta assets 
+<img src="assets/estrutura-de-pastas.png" alt="estrutura de pastas" width="300"> // MUDAR Estrura e Dependencias *lembrar de botar numa nova pasta assets 
 
 <br />
 
@@ -94,11 +94,10 @@ Siga os passos e inclua as informações abaixo:
 
 ### 💪 Desafios e Aprendizados
 
-- Maior desafio desse projeto foi conseguir mapear as empresas e instituições de ensino que tem um trabalho continuo com a diversidade e inclusão, visto que muitas tem um projeto ou uma iniciativa uma vez perdida. 
-- Achar API públicas voltadas a comunidade LGBT com dados governamentais, sendo que nem o IBGE inclue a comunidade T em seus estudos mesmo havendo pedidos judiciais pedindo essa inclusão. Daí minha solução foi criar meu objeto json simulando API com pesquisas feitas por mim e levantei dados feitos por pesquisadores não governamentais para trazer informações mais concretas para o projeto.
+- Maior desafio desse projeto foi conseguir pensar em uma ideia que tenha impacto social e usar esse tema que tanto tenho enfrentado.
 - Outro desafio foi deixar meu site responsivo para todos os tamanhos de tela.
 <br />
-- Meu aprendizado nesse projeto foi utilizar e aprender uma parte do framework Bootstrap e utilizei a biblioteca do mesmo, Bootstrap-react onde criei um carousel de imagens para por no meu Header
+- Meu aprendizado nesse projeto foi utilizar o firebase, tive algumas dificuldades e muitos erros. Porém deu certo.  
 - E outro aprenzidado que foi muito necessário para por em prática o projeto foi ter aula de UX/Design, onde aprendi a utilizar o Figjam para criar um cardeno com brainstorm, matriz de esforço x impacto, desk research, proto persona e site map. 
 
 
@@ -115,17 +114,8 @@ Siga os passos e inclua as informações abaixo:
 <br />
 
 
-# Citação e Agradecimento
 
-<p>
-Eu nem sei expressar o quão sou grata a várias pessoas, mas vamos la. 
-Primeiro vou agradecer a minha amiga Lorena que foi aluna da Reprograma e que me apresentou essas mulheres incrivéis. 
-Quero agradecer a essas mulheres que fizeram e fazem a Reprograma acontecer, dando oportunidades a várias mulheres do Brasil todo que tem um sonho de ingressar na área tecnológica mesmo que sem conhecimento prévio e sem pré-requisitos, principalmente mulheres negras/trans/travesti que socialmente são minorias. Agradecer a equipe por construirem um espaço extremamente acolhedor, inclusivo e respeitoso. 
-Claro, preciso agradecer cada prof que tive. Necessário, né? não posso deixar passar nenhuma.
-Começando pela prof Thiele Nunes que foi a responsável pelos nossos primeiros passos na programação com HTML e CSS.
-A prof Rocks que nos ensinou Responsividade e UX/Design.
-A prof Ana Morita que deu nossos primeiros passos em lógica de programação, o bendito JavaScript e seu DOM, hahay o que é teu tá guardado, JS!
-A prof Lilit Bandeira que além de reforçar o JavaScript nos ensinou React JS. Ainda tenho aquela mágoa de cabocla por causa do ex Inv, visse? Mas ta suave, você foi maravilhosa porque me despertou uma paixão por React e o desejo de aprender cada vez mais. 
-Claro que não poderia deixar de agradecer a nossa facilitadora Mari que desde o ínicio foi uma pessoa incrível que nos apoiou e nos deu todo suporte necessário, Mari você quer o mundo? eu te dou! Obrigada de verdade por tudo! 
-Não menos importante quero agradecer a nossa psicóloga Ju Farias que foi essencial durante minha jornada na Reprograma, que mesmo diante de medos e insegurança ela estava la para dar suporte 
-</p>
+## Citação e Agradecimento 
+
+
+Por fim, quero agradecer a mim mesma por acreditar, insistir e confiar no processo. Meu primeiro curso onde fiz questão de não faltar nenhuma aula e me dedicar 100% em tudo, a prova tá aí! Obrigada, meninas! Obrigada, Reprograma!
