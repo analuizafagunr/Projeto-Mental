@@ -45,7 +45,8 @@ No site, os visitantes encontrarão técnicas de respiração e yoga, juntamente
 
 ## Estrutura do projeto
 
-<img src="assets/estrutura-de-pastas.png" alt="estrutura de pastas" width="300"> // MUDAR Estrura e Dependencias *lembrar de botar numa nova pasta assets 
+![estrutura](https://github.com/analuizafagunr/Projeto-Mental/assets/126826886/7309cd81-c69d-4037-a83d-8a2a262dbfff)
+
 
 <br />
 
