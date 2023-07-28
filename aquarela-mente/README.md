@@ -1,6 +1,6 @@
 <h1 align="center">
-  <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500"> 
-</h1>
+  ![reprograma](https://github.com/analuizafagunr/Projeto-Mental/assets/126826886/717228e9-c649-469a-8566-42b37014584c)
+
 
 ## Apresentação
 
