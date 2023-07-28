@@ -1,12 +1,13 @@
 <h1 align="center">
-  <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500"> 
-</h1>
+
+
 
 ## Apresentação
 
 ### Quem é a Ana Luiza?
 
-<img src='./assets/analuu.JPG' width=500 alt='foto analuiza'>
+![analuu](https://github.com/analuizafagunr/Projeto-Mental/assets/126826886/4043b423-77f3-4a8e-a8da-576546e123bf)
+
 
 [Ana Luiza](https://www.instagram.com/luizafagunr/), é uma Paulista apaixonada por duas áreas aparentemente distintas: psicologia e tecnologia. Atualmente, estou embarcando em uma jornada como desenvolvedora Front-End pela Reprograma, onde estou me dedicando de corpo e alma a aprender e evoluir nesse campo fascinante da programação.
 Estou empolgada e determinada a enfrentar desafios, expandir meus horizontes e continuar aprendendo, para construir uma carreira promissora e repleta de realizações no mundo da tecnologia.
@@ -44,7 +45,8 @@ No site, os visitantes encontrarão técnicas de respiração e yoga, juntamente
 
 ## Estrutura do projeto
 
-<img src="assets/estrutura-de-pastas.png" alt="estrutura de pastas" width="300"> // MUDAR Estrura e Dependencias *lembrar de botar numa nova pasta assets 
+![estrutura](https://github.com/analuizafagunr/Projeto-Mental/assets/126826886/7309cd81-c69d-4037-a83d-8a2a262dbfff)
+
 
 <br />
 
