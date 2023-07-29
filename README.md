@@ -28,7 +28,7 @@ No site, os visitantes encontrarão técnicas de respiração e yoga, juntamente
 
 
 
-## O site conterá 4 páginas:
+## O site conterá 5 páginas:
 
 * Home
 * Sobre
