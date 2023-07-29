@@ -120,4 +120,4 @@ Siga os passos e inclua as informações abaixo:
 ## Citação e Agradecimento 
 
 
-Por fim, quero agradecer a mim mesma por acreditar, insistir e confiar no processo. Meu primeiro curso onde fiz questão de não faltar nenhuma aula e me dedicar 100% em tudo, a prova tá aí! Obrigada, meninas! Obrigada, Reprograma!
+Por fim, quero agradecer a mim mesma por acreditar, insistir, confiar e não desistir do processo. Meu primeiro curso onde fiz questão de não faltar nenhuma aula e me dedicar 100% em tudo, a prova tá aí! Obrigada, meninas por todo apoio, Obrigada Mari por todo suporte, acolhimento e apoio, sem dúvidas não teria chegado até aqui sem vocês! Obrigada, Reprograma! Gratidão !
