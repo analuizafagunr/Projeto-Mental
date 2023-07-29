@@ -109,7 +109,8 @@ Siga os passos e inclua as informações abaixo:
 ### 😎 Próximos passos mapeados  
 
 - Criar página para voluntarios e terapeutas para continuar auxiliando quem está passando por momentos de ansiedade.
-- Trazer mais técnicas e assuntos sobre alimentação.
+- Mapear ongs 
+- Trazer mais técnicas e assuntos sobre exercícios.
 - E trabalhar com acessibilidade no meu site.
 - Revisar responsividade
 
