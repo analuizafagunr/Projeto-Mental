@@ -18,7 +18,7 @@ const Router = () => {
         <Route path="/recursos" element={<Recursos />} /> {/* Coloca a página Depoimentos após a página Exercicios */}
         <Route path="/contato" element={<Contato />} />
       </Routes>
-      <Footer content="Desenvolvido por Ana ♡" />
+      <Footer content="Desenvolvido por Ana ♡. E todos os direitos são reservados." />
     </BrowserRouter>
   );
 };

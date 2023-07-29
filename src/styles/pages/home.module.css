@@ -20,10 +20,11 @@
   margin-bottom: 1rem; /* Adiciona 1 rem de espaço abaixo do elemento .cardTitle */
   margin-top: -15%;
   text-align: center;
+  font-family: sans-serif;
 }
 
 .cardDescription {
   font-size: 1.3rem;
   color:  rgb(60, 57, 57);
-  font-family:Helvetica;
+  font-family: sans-serif;
 }

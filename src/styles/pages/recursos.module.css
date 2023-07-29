@@ -16,12 +16,6 @@
   text-align: center;
 }
 
-.cardTitle {
-  padding: 3rem;
-  font-size: 1.5rem;
-  color: #dfbd57;
-}
-
 .cardDescription {
   font-size: 1.1rem;
   color: rgb(60, 57, 57);
@@ -62,25 +56,48 @@
 }
 
 a {
-  color: #007bff; /* Define a cor do link */
+  color: #fbfcfe; /* Define a cor do link */
   text-decoration: none; /* Remove o sublinhado padrão do link */
-  margin-bottom: 10px;
+  margin: 10px;
 }
-
 a:hover {
   text-decoration: underline; /* Sublinha o link quando o mouse está sobre ele */
+  margin-bottom:10px;
+  
+}
+
+button{
+    background-color:#DA70D6;
+    border: none;
+    padding: .5rem;
+    border-radius: 8px;
+    padding-left: 10px
 }
 
 p {
-  font-size: 1.1rem;
+  font-size: 1rem;
   color: rgb(60, 57, 57);
-  margin-bottom: 20px;
-  font-family: Helvetica;
+  font-family: sans-serif;
+  margin-bottom: 10px;
+  padding-left: 10px;
 }
 
-h1 {
-  font-size: 28px;
+h3 {
+  padding: 1rem;
+  font-size: 1.9rem;
+  color: #dfbd57;
+}
+
+h4 {
+  font-size: 22px;
   color: #6a1543;
-  margin-bottom: 20px;
+  padding-left: 10px;
+  font-family: sans-serif;
+  padding-bottom: 0.6rem;
+}
+
+.Containerprincipal{
+  width: 80%;
+  margin: 0 auto; 
 }
 

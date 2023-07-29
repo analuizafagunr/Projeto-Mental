@@ -36,6 +36,8 @@
 .cardContainer {
   padding: 20px;
   margin-bottom: 20px;
+  width: 80%;
+  margin: 0 auto; 
 }
 
 /* Estilos para o título dos cards */
@@ -49,11 +51,12 @@
 }
 .cardContainerr {
   padding: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   border: 3px solid #FADA77; /* Adiciona uma borda de 2px de espessura com cor amarela */
   border-radius: 10px; /* Arredonda as bordas do container */
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra suave ao container */
-  
+  width: 80%;
+  margin: 0 auto; 
 }
 
 /* Estilos para a seção "Depoimentos e Superação" */

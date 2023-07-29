@@ -5,7 +5,7 @@
   justify-content: center;
   align-items: center;
   gap: 2rem;
-  padding: 6rem;
+  padding: 2rem;
   position: relative; /* Adiciona esta propriedade para o posicionamento correto dos elementos filhos */
 }
 
@@ -20,7 +20,7 @@
   width: 120%; /* Definimos a largura da imagem como 100% para ocupar todo o espaço disponível */
   position: relative; /* Estabelecemos o posicionamento relativo para controlar a posição da imagem */
   top: -10px; /* Ajuste o valor para a quantidade de deslocamento vertical desejada */
-  margin-top: -15%;
+  margin-top: -7%;
 }
 
 
